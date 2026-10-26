@@ -1,0 +1,1 @@
+Git is an applcation host in a terminal to interact with GitHub
