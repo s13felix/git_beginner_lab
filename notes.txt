@@ -1,3 +1,4 @@
 Git is an applcation host in a terminal to interact with GitHub
 I love DevOps 
 And Linux
+I will master Linux, AWS, Docker,...
